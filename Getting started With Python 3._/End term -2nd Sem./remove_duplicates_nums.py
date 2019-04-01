@@ -1,3 +1,8 @@
+'''
+Author: Rakesh Yadav
+Aim: W.A.P. to remove Duplicate elements from list
+'''
+
 List = [1,2,3,4,5,5,5,2,1,6]
 pappu=set()
 nalla=[]
