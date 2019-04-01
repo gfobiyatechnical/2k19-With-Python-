@@ -1,3 +1,7 @@
+'''
+Author: Rakesh Yadav
+Aim: W.A.P. to remove Duplicate elements from list
+'''
 def RemoveDuplicate(l):
 	for k in range(len(l)):
 		l.sort()
