@@ -1,4 +1,9 @@
-#Point to Notice OUPUTS
+'''
+Author: Rakesh Yadav
+Aim : learnig from Different types of OUPUTS 
+'''
+
+
 
 print("fun - Outputs:"'\n')
 
@@ -18,7 +23,3 @@ print("College","Nota","Branch","Chuluu","Spesalization","Dot",sep=" $$ ")
 
 print('\n')
 print("My name is %s and age is %d " %("Mark",42))
-
-
-
-
