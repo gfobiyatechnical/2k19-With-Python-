@@ -1,5 +1,8 @@
-#Aim : Use of different functions
-#Author : Rakesh Yadav
+'''
+Aim : Use of different functions
+Author : Rakesh Yadav
+'''
+
 
 print("\tUSE oF Continue in Python:    ")
 list = 'Rakesh yadav Dil SHIV Rahul'
@@ -9,7 +12,6 @@ for x in list :
         continue
     print("\tLETTER IS %c" %x)
 
-
 print("\n\tUSE OF BREAK inPython :    ")
 list = 'Rakesh yadav Dil SHIV Rahul'
 print(list,sep="\t\t")
@@ -17,7 +19,6 @@ for x in list :
     if x == " " :
         break
     print("\tLETTER IS %c" %x)
-
 
 print("\n\tUSE OF NESTED-WHILE LOOP inPython :    ")
 count = 10
@@ -30,4 +31,3 @@ while x < count:
         y = y + 1
         
 x  = x  + 1
-
