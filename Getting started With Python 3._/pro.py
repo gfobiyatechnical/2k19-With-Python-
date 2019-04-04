@@ -1,3 +1,6 @@
+# Author: Rakesh Yadav
+# Aim: Coding can be done in Fun way
+
 name2 = "rakesh"
 name1 = 100
 list = [12, 'takeit', "rakesg", 10.3]
@@ -17,9 +20,3 @@ file2 = open("poss2.txt","w")
 file2.write("I am not your boss")
 boss = file2.read()
 print(boss)
-
-
-
-
-
-
