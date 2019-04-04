@@ -1,5 +1,7 @@
-# Aim : To make Simple Calculator
-# Author : Rakesh Yadav
+'''
+Aim : To make Simple Calculator
+Author : Rakesh Yadav
+'''
 
 pri_ammount = float(input("Enter principle ammount: "))
 rate = float(input("Enter the ammount of rate of intrest: "))
@@ -18,9 +20,3 @@ elif choice == 2 :
     print("Your Compund Intrest is %.2f " % SI)
 else :
     print("Invallid Entary: ****Try Again****\n")
-
-
-
-
-
-
