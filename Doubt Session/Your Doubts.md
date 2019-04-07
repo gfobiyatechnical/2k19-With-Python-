@@ -12,5 +12,6 @@ E-mail: rakesh.yadav_cs18@gla.ac.in
 
 ### ||============||========================||=======================||
 
+NOTES: Please do not ask incomplete questions.Try to Explain your doubts.
 
 #### Your Doubts :
