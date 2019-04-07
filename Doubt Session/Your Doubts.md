@@ -2,7 +2,7 @@
 
 
 This is the place where i will solve your doubts regarding any of yours Questions.
-Please do comment and let me know about yours doubts.
+Please do comment and let me know about your doubts.
 
 
 
