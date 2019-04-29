@@ -5,5 +5,5 @@
 > :octocat: Getting start with Python :full_moon_with_face:
 >
 ## For Examination's Point of View 
-1.[Python practice Questions](www.w3resource.com/python-exercises/list/)
+1.[Python practice Questions](https://www.w3resource.com/python-exercises/list/)
 
